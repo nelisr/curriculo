@@ -35,4 +35,4 @@ Virtuais com Magento e Sistemas Web com Ruby On Rails ( 2014/2015 )<br />
 * Mysql e Postgresql<br />
 * Bootstrap, Foundation e Gumby<br />
 * GIT<br />
-* Convivência de desenvolvimento em ambiente linux e mac <br />
+* Convivência de desenvolvimento em ambiente linux, windows e mac <br />
