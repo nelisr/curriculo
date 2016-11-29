@@ -1,6 +1,6 @@
 # Francisco Neles Gomes Rodrigues
 22 anos, Solteiro <br />
-Rua Tiburcio Albano, No 465<br />
+Rua Tiburcio Albano, N° 465<br />
 Pici – Fortaleza – CE<br />
 Contato: (85) 99956-5125 / (85) 98549-3293 <br />
 E-mail: nelis.rodriguess@gmail.com<br />
@@ -11,11 +11,12 @@ E-mail: nelis.rodriguess@gmail.com<br />
 
 ###ESCOLARIDADE
 * Ensino Médio Técnico em Informática – E.E.E.P Capelão Frei Orlando – Concluído – 2011.2 <br />
+
 ### EXPERIÊNCIA PROFISSIONAL
-* Web Designer na empresa E-deas Web, implementando sites e lojas virtuais com Wordpress e Woocommerce (2015/2016)<br />
+* Web Designer na empresa E-deas Web, implementando sites e lojas virtuais com Wordpress e Woocommerce ( 2015/2016 )<br />
 * Desenvolvendo sites institucionais e de portfólio como freelancer usando Wordpress ( 2015 )<br />
 * Desenvolvedor Web na empresa Zombie Digital, desenvolvendo Sites e Portais com Wordpress, Lojas<br />
-Virtuais com Magento e Sistemas Web com Ruby On Rails (2014/2015)<br />
+Virtuais com Magento e Sistemas Web com Ruby On Rails ( 2014/2015 )<br />
 
 ###QUALIFICAÇÕES
 * School Of Net - Curso de PHP – 40hrs<br />
