@@ -5,7 +5,7 @@ Fortaleza/CE
 
 ####Desenvolvedor Web ( foco em  Wordpress e Ruby on Rails )
 
-**Telefone:** (85) 99956.5125 - (85) 8549.3293 <br />
+**Telefone:** (85) 99956.5125 - (85) 98549.3293 <br />
 **E-mail:** nelis.rodriguess@gmail.com <br />
 **Github:** nelisr <br />
 
@@ -44,17 +44,17 @@ Fortaleza/CE
 
 ## Experência Profissional
 
-* 2015/Atualmente - **DEV Team - Programador ( PHP e Ruby ) )**
+* 2015/Atualmente - **DEV Team - Programador (PHP e Ruby)**
 > Atualmente atuo no time criado de DEVs para disponibilizar suas habilidades em desenvolvimento web e oferecer uma proposta de produto com resultados ao cliente que necessite de soluções para seu negócio na rede.
 [DEV Team](http://devunderground.com.br)
 
-* 2015/Atualmente - **E-deas (Emprego Atual) - Desenvolvedor Web**
+* 2015/Atualmente - **E-deas Web - Desenvolvedor Web**
 > Trabalho no desenvolvimento aplicações web ( Sites e Ecommerces ) com wordpress, focando no design responsivo, performance, otimização de pesquisa (SEO) e segurança dos mesmos.
 [E-deas](http://e-deas.com.br)
 
 * 2014/2015 - **Zombie Digital - Desenvolvedor Web ( Estágio )**
 > Desenvolvendo Sites e Portais ( Wordpress ), Ecommerces ( Magento ) e Sistemas Web ( Ruby On Rails ).
-[E-deas](http://zombiedigital.com.br)
+[Zombie Digital](http://zombiedigital.com.br)
 
 ## Projetos de destaque
 
@@ -62,7 +62,7 @@ Fortaleza/CE
 [Front-end](http://aprece.org.br)
 
 * Sheng Chi - Restaurante - ( Site )
-[Front-end/BackEnd](http://shengchi.com.br)
+[Front-end/BackEnd](http://shengchi.com.br/homolog)
 
 * Valien Cosméticos - ( Sistema )
 [Front-end/BackEnd](http://office.valien.com.br)
