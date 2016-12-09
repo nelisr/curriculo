@@ -1,38 +1,94 @@
 # Francisco Neles Gomes Rodrigues
-22 anos, Solteiro <br />
-Rua Tiburcio Albano, N° 465<br />
-Pici – Fortaleza – CE<br />
-Contato: (85) 99956-5125 / (85) 98549-3293 <br />
-E-mail: nelis.rodriguess@gmail.com<br />
+Fortaleza/CE
 
-###FORMAÇÃO
-* Ciência da Computação – Faculdade Integrada da Grande Fortaleza (FGF) – 1° período – 2015.1<br />
-* Curso Superior de Formação Específica em Análise de Sistema – Faculdade Integrada da Grande Fortaleza (FGF) – Concluído – 2014.2<br />
+---
 
-###ESCOLARIDADE
-* Ensino Médio Técnico em Informática – E.E.E.P Capelão Frei Orlando – Concluído – 2011.2 <br />
+####Front-end e BackEnd ( foco em aplicaçoes Wordpress e Rails )
 
-### EXPERIÊNCIA PROFISSIONAL
-* Web Designer na empresa E-deas Web, implementando sites e lojas virtuais com Wordpress e Woocommerce ( 2015/2016 )<br />
-* Desenvolvendo sites institucionais e de portfólio como freelancer usando Wordpress ( 2015 )<br />
-* Desenvolvedor Web na empresa Zombie Digital, desenvolvendo Sites e Portais com Wordpress, Lojas<br />
-Virtuais com Magento e Sistemas Web com Ruby On Rails ( 2014/2015 )<br />
+**Telefone:** (85) 99956.5125 - (85) 8549.3293
+**E-mail:** nelis.rodriguess@gmail.com
+**Github:** nelisr
 
-###QUALIFICAÇÕES
-* School Of Net - Curso de PHP – 40hrs<br />
-* Senac - Curso Administrador de Banco de Dados – 40hrs<br />
-* Universidade do Trabalho Digital - Curso Suporte e Manutenção de Computadores – 40hrs<br />
-* Master Assessoria - Curso Suporte e Manutenção de Computadores – 40hrs<br />
-* Networld Informática - Curso Básico de Informática – 40hrs.<br />
+---
 
-###CONHECIMENTOS ESPECIAIS
-* HTML, CSS, JavaScript e Jquery<br />
-* Gulp, Grunt<br />
-* Ruby e Ruby On Rails<br />
-* PHP<br />
-* Wordpress<br />
-* Magento<br />
-* Mysql e Postgresql<br />
-* Bootstrap, Foundation e Gumby<br />
-* GIT<br />
-* Convivência de desenvolvimento em ambiente linux, windows e mac <br />
+## Competências
+
+**BackEnd:**
+* PHP
+* Wordpress
+* Ruby
+* Ruby on Rails
+* Magento
+
+**FrontEnd:**
+* HTML5/CSS3
+* Pré-processadores (Sass, Less, Stylus)
+* Bootstrap
+* Foundation
+* Gumby
+* Responsive Design
+* Automatizadores (Grunt, Gulp)
+* jQuery
+
+**Design:**
+* PS
+* Illustrator
+
+**Outros:**
+* Arquitetura de Informação
+* Conhecimento em SEO
+* Controle de versão com git
+* SBGDs ( Mysql, Postgresql )
+
+---
+
+## Informações adicionais
+
+* Facilidade e muito interesse em aprender
+* Determinação
+* Facilidade para trabalhar em grupo
+
+---
+
+## Experência Profissional
+
+* 2015/Atualmente - **DEV Team * - Programador ( PHP e Ruby ) ) * **
+> Atualmente atuo no time criado de DEVs para disponibilizar suas habilidades em desenvolvimento web e oferecer uma proposta de produto com resultados ao cliente que necessite de soluções para seu negócio na rede.
+[DEV Team](http://devunderground.com.br)
+
+* 2015/Atualmente - **E-deas *(Emprego Atual) - Desenvolvedor Web * **
+> Trabalho no desenvolvimento aplicações web ( Sites e Ecommerces ) com wordpress, focando no design responsivo, performance, otimização de pesquisa (SEO) e segurança dos mesmos.
+[E-deas](http://e-deas.com.br)
+
+* 2014/2015 - **Zombie Digital* - Desenvolvedor Web ( Estágio ) **
+> Desenvolvendo Sites e Portais ( Wordpress ), Ecommerces ( Magento ) e Sistemas Web ( Ruby On Rails ).
+[E-deas](http://zombiedigital.com.br)
+
+## Projetos de destaque
+
+* APRECE - Associação dos Municípios do Estado do Ceará
+[Front-end](http://aprece.org.br)
+
+* Sheng Chi - Restaurante
+[Front-end/BackEnd](http://shengchi.com.br)
+
+* Valien Cosméticos
+[Front-end/BackEnd](http://office.valien.com.br)
+
+---
+
+## Formação
+* **Ciência da Computação** – Faculdade Integrada da Grande Fortaleza (FGF) – 1° período – 2015.1
+* **Curso Superior de Formação Específica em Análise de Sistema** – Faculdade Integrada da Grande Fortaleza (FGF) – Concluído – 2014.2
+
+## Qualificações
+* ** Curso Língua Inglesa** - Cursando 1º Semestre (6 Semestres) - Núcleo de Línguas Estrangeiras - UECE/PROLIN
+* **Curso Ruby on Rails** - Udemy  
+* **Curso PHP**  - School Of Net
+* **Curso Administrador de Banco de Dados** - Senac
+* **Curso Suporte e Manutenção de Computadores** - Universidade do Trabalho Digital
+* **Curso Suporte e Manutenção de Computadores** - Master Assessoria
+* **Curso Básico de Informática** - Networld Informática
+
+## Eventos
+* **Wordcamp** - Wordcamp Fortaleza 2016
