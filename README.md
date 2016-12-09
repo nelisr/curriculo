@@ -7,7 +7,7 @@ Fortaleza/CE
 
 **Telefone:** (85) 99956.5125 - (85) 98549.3293 <br />
 **E-mail:** nelis.rodriguess@gmail.com <br />
-**Github:** nelisr <br />
+**Github:** [nelisr](https://github.com/nelisr/) <br />
 
 ---
 
