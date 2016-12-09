@@ -5,9 +5,9 @@ Fortaleza/CE
 
 ####Front-end e BackEnd ( foco em aplicaçoes Wordpress e Rails )
 
-**Telefone:** (85) 99956.5125 - (85) 8549.3293
-**E-mail:** nelis.rodriguess@gmail.com
-**Github:** nelisr
+**Telefone:** (85) 99956.5125 - (85) 8549.3293 <br />
+**E-mail:** nelis.rodriguess@gmail.com <br />
+**Github:** nelisr <br />
 
 ---
 
@@ -42,14 +42,6 @@ Fortaleza/CE
 
 ---
 
-## Informações adicionais
-
-* Facilidade e muito interesse em aprender
-* Determinação
-* Facilidade para trabalhar em grupo
-
----
-
 ## Experência Profissional
 
 * 2015/Atualmente - **DEV Team * - Programador ( PHP e Ruby ) ) * **
@@ -66,13 +58,13 @@ Fortaleza/CE
 
 ## Projetos de destaque
 
-* APRECE - Associação dos Municípios do Estado do Ceará
+* APRECE - Associação dos Municípios do Estado do Ceará - ( Site )
 [Front-end](http://aprece.org.br)
 
-* Sheng Chi - Restaurante
+* Sheng Chi - Restaurante - ( Site )
 [Front-end/BackEnd](http://shengchi.com.br)
 
-* Valien Cosméticos
+* Valien Cosméticos - ( Sistema )
 [Front-end/BackEnd](http://office.valien.com.br)
 
 ---
@@ -92,3 +84,11 @@ Fortaleza/CE
 
 ## Eventos
 * **Wordcamp** - Wordcamp Fortaleza 2016
+
+---
+
+## Informações adicionais
+
+* Facilidade e muito interesse em aprender
+* Determinação
+* Facilidade para trabalhar em grupo
