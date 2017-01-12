@@ -79,6 +79,6 @@ Fortaleza/CE
 
 ## Informações adicionais
 
-* Facilidade e muito interesse em aprender
+* Facilidade e interesse em aprender
 * Determinação
 * Facilidade para trabalhar em grupo
