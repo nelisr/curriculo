@@ -52,11 +52,14 @@ Fortaleza/CE
 
 ## Projetos de destaque
 
+* CDL Jovem - Fortaleza - ( Site )
+[Front-end/BackEnd](http://cdljovemfor.com.br)
+
 * APRECE - Associação dos Municípios do Estado do Ceará - ( Site )
 [Front-end](http://aprece.org.br)
 
 * Sheng Chi - Restaurante - ( Site )
-[Front-end/BackEnd](http://shengchi.com.br/homolog)
+[Front-end/BackEnd](http://shengchi.com.br)
 
 * Valien Cosméticos - ( Sistema )
 [Front-end/BackEnd](http://office.valien.com.br)
@@ -66,7 +69,7 @@ Fortaleza/CE
 * **Curso Superior de Formação Específica em Análise de Sistema** – Faculdade Integrada da Grande Fortaleza (FGF) – Concluído – 2014.2
 
 ## Qualificações
-* **Curso Língua Inglesa** - Cursando 1º Semestre (6 Semestres) - Núcleo de Línguas Estrangeiras - UECE/PROLIN
+* **Curso Língua Inglesa** - Cursando 2º Semestre (6 Semestres) - Núcleo de Línguas Estrangeiras - UECE/PROLIN
 * **Curso Ruby on Rails** - Udemy  
 * **Curso PHP**  - School Of Net
 * **Curso Administrador de Banco de Dados** - Senac
