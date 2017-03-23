@@ -1,7 +1,7 @@
 # Francisco Neles Gomes Rodrigues
 Fortaleza/CE
 
-####Desenvolvedor Web ( foco em  Wordpress e Ruby on Rails )
+#### Desenvolvedor Web ( foco em  PHP, Wordpress e Ruby on Rails )
 
 **Telefone:** (85) 99956.5125 - (85) 98549.3293 <br />
 **E-mail:** nelis.rodriguess@gmail.com <br />
@@ -31,6 +31,7 @@ Fortaleza/CE
 * Illustrator
 
 **Outros:**
+* Orientação a Objetos
 * Arquitetura de Informação
 * Conhecimento em SEO
 * Controle de versão com git
@@ -84,4 +85,4 @@ Fortaleza/CE
 
 * Facilidade e interesse em aprender
 * Determinação
-* Facilidade para trabalhar em grupo
+* Facilidade para trabalhar em equipe
