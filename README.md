@@ -29,11 +29,11 @@ Fortaleza/CE
 
 **Outros:**
 * Orientação a Objetos
+* TDD ( RSpec )
 * Arquitetura de Informação
 * Conhecimento em SEO
 * Controle de versão com git
 * SBGDs ( Mysql, Postgresql )
-* TDD ( RSpec )
 
 ## Experência Profissional
 
@@ -52,16 +52,16 @@ Fortaleza/CE
 ## Projetos de destaque
 
 * CDL Jovem - Fortaleza - ( Site )
-[Front-end/BackEnd](http://cdljovemfor.com.br)
+[Front-end/Back-end](http://cdljovemfor.com.br)
 
 * APRECE - Associação dos Municípios do Estado do Ceará - ( Site )
 [Front-end](http://aprece.org.br)
 
 * Sheng Chi - Restaurante - ( Site )
-[Front-end/BackEnd](http://shengchi.com.br)
+[Front-end/Back-end](http://shengchi.com.br)
 
 * Valien Cosméticos - ( Sistema )
-[Front-end/BackEnd](http://office.valien.com.br)
+[Front-end/Back-end](http://office.valien.com.br)
 
 ## Formação
 * **Ciência da Computação** – Faculdade Integrada da Grande Fortaleza (FGF) – 1° período – 2015.1
