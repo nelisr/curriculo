@@ -9,7 +9,7 @@ Fortaleza/CE
 
 ## Formação
 * **Graduado em Análise de Sistema** – (FGF) Faculdade Integrada da Grande Fortaleza – Concluído – 2014.2
-* **Ciência da Computação** – Faculdade Integrada da Grande Fortaleza (FGF) – 1° período – 2015.1
+* **Ciência da Computação** – (FGF) - Faculdade Integrada da Grande Fortaleza – 1° período – 2015.1
 
 ## Competências
 
@@ -34,7 +34,7 @@ Fortaleza/CE
 **Outros:**
 * Orientação a Objetos
 * TDD ( RSpec )
-* Arquitetura de Informação
+* Arquitetura da Informação
 * Conhecimento em SEO
 * Controle de versão com git
 * SBGDs ( Mysql, Postgresql )
@@ -42,7 +42,7 @@ Fortaleza/CE
 ## Experiência Profissional
 
 * 2015/Atualmente - **DEV Team - Programador (PHP e Ruby)**
-> Atualmente atuo no time criado de DEVs para disponibilizar suas habilidades em desenvolvimento web e oferecer uma proposta de produto com resultados ao cliente que necessite de soluções para seu negócio na rede.
+> Atualmente atuo no time criado de DEVs para disponibilizar suas habilidades em desenvolvimento web e oferecer uma proposta de produto com resultados ao cliente que necessite de soluções para seu negócio na internet.
 [DEV Team](http://devunderground.com.br)
 
 * 2015/Atualmente - **E-deas Web - Web Developer**
@@ -51,7 +51,7 @@ Fortaleza/CE
 
 * 2014/2015 - **Zombie Digital - Web Developer ( Estágio )**
 > Desenvolvendo Sites e Portais ( Wordpress ), Ecommerces ( Magento ) e Sistemas Web ( Ruby On Rails ).
-[Zombie Digital](http://zombiedigital.com.br)
+[Rubert Tecnologia](http://rubert.com.br)
 
 ## Projetos de destaque
 
