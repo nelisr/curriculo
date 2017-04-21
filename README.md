@@ -1,11 +1,15 @@
 # Francisco Neles Gomes Rodrigues
 Fortaleza/CE
 
-#### Desenvolvedor Web ( foco em  PHP e Ruby )
+#### Web Developer ( foco em  PHP e Ruby )
 
 **Telefone:** (85) 99956.5125 - (85) 98549.3293 <br />
 **E-mail:** nelis.rodriguess@gmail.com <br />
 **Github:** [nelisr](https://github.com/nelisr/) <br />
+
+## Formação
+* **Graduado em Análise de Sistema** – (FGF) Faculdade Integrada da Grande Fortaleza – Concluído – 2014.2
+* **Ciência da Computação** – Faculdade Integrada da Grande Fortaleza (FGF) – 1° período – 2015.1
 
 ## Competências
 
@@ -35,21 +39,24 @@ Fortaleza/CE
 * Controle de versão com git
 * SBGDs ( Mysql, Postgresql )
 
-## Experência Profissional
+## Experiência Profissional
 
 * 2015/Atualmente - **DEV Team - Programador (PHP e Ruby)**
 > Atualmente atuo no time criado de DEVs para disponibilizar suas habilidades em desenvolvimento web e oferecer uma proposta de produto com resultados ao cliente que necessite de soluções para seu negócio na rede.
 [DEV Team](http://devunderground.com.br)
 
-* 2015/Atualmente - **E-deas Web - Desenvolvedor Web**
+* 2015/Atualmente - **E-deas Web - Web Developer**
 > Trabalho no desenvolvimento aplicações web ( Sites e Ecommerces ) com wordpress, focando no design responsivo, performance, otimização de pesquisa (SEO) e segurança dos mesmos.
 [E-deas](http://e-deas.com.br)
 
-* 2014/2015 - **Zombie Digital - Desenvolvedor Web ( Estágio )**
+* 2014/2015 - **Zombie Digital - Web Developer ( Estágio )**
 > Desenvolvendo Sites e Portais ( Wordpress ), Ecommerces ( Magento ) e Sistemas Web ( Ruby On Rails ).
 [Zombie Digital](http://zombiedigital.com.br)
 
 ## Projetos de destaque
+
+* Prefeitura de Pacajus -  ( Site )
+[Front-end/Back-end](http://pacajus.ce.gov.br)
 
 * CDL Jovem - Fortaleza - ( Site )
 [Front-end/Back-end](http://cdljovemfor.com.br)
@@ -62,10 +69,6 @@ Fortaleza/CE
 
 * Valien Cosméticos - ( Sistema )
 [Front-end/Back-end](http://office.valien.com.br)
-
-## Formação
-* **Ciência da Computação** – Faculdade Integrada da Grande Fortaleza (FGF) – 1° período – 2015.1
-* **Curso Superior de Formação Específica em Análise de Sistema** – Faculdade Integrada da Grande Fortaleza (FGF) – Concluído – 2014.2
 
 ## Qualificações
 * **Curso Língua Inglesa** - Cursando 2º Semestre (6 Semestres) - Núcleo de Línguas Estrangeiras - UECE/PROLIN
