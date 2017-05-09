@@ -16,6 +16,7 @@ Fortaleza/CE
 **BackEnd:**
 * PHP
 * Wordpress
+* Laravel
 * Ruby
 * Ruby on Rails
 * Magento
@@ -34,6 +35,8 @@ Fortaleza/CE
 **Outros:**
 * Orientação a Objetos
 * TDD ( RSpec )
+* Deploy ( Capistrano )
+* SCRUM
 * Arquitetura da Informação
 * Conhecimento em SEO
 * Controle de versão com git
