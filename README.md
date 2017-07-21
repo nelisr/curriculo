@@ -1,11 +1,11 @@
 # Francisco Neles Gomes Rodrigues
 Fortaleza/CE
 
-#### Web Developer ( foco em  PHP e Ruby )
+#### Web Developer ( foco em Ruby e PHP )
 
 **Telefone:** (85) 99956.5125 - (85) 98549.3293 <br />
 **E-mail:** nelis.rodriguess@gmail.com <br />
-**Github:** [nelisr](https://github.com/nelisr/) <br />
+**Site:** [nelisrodrigues.com.br](https://nelisrodrigues.com.br/) <br />
 
 ## Formação
 * **Graduado em Análise de Sistema** – (FGF) Faculdade Integrada da Grande Fortaleza – Concluído – 2014.2
@@ -34,13 +34,13 @@ Fortaleza/CE
 
 **Outros:**
 * Orientação a Objetos
-* TDD ( RSpec )
-* Deploy ( Capistrano )
-* SCRUM
 * Arquitetura da Informação
 * Conhecimento em SEO
 * Controle de versão com git
 * SBGDs ( Mysql, Postgresql )
+* TDD ( RSpec )
+* Deploy ( Capistrano )
+* SCRUM
 
 ## Experiência Profissional
 
@@ -72,6 +72,9 @@ Fortaleza/CE
 
 * Valien Cosméticos - ( Sistema )
 [Front-end/Back-end](http://office.valien.com.br)
+
+* Nelis Rodrigues - ( Site / Sistema )
+[Front-end/Back-end](https://nelisrodrigues.com.br)
 
 ## Qualificações
 * **Curso Língua Inglesa** - Cursando 2º Semestre (6 Semestres) - Núcleo de Línguas Estrangeiras - UECE/PROLIN
