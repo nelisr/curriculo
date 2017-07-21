@@ -41,6 +41,7 @@ Fortaleza/CE
 * TDD ( RSpec )
 * Deploy ( Capistrano )
 * SCRUM
+* Linux, Windows e Mac OS
 
 ## Experiência Profissional
 
