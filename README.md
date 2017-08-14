@@ -87,7 +87,7 @@ Fortaleza/CE
 * **Curso Básico de Informática** - Networld Informática
 
 ## Certificações
-* **[ Sites para Dispositivos Móveis - Google ](https://www.google.com.br/partners/#i_profile;idtf=112521124707596699821;)
+* **Sites para Dispositivos Móveis - [ Google ](https://www.google.com.br/partners/#i_profile;idtf=112521124707596699821;)
 
 ## Eventos
 * **Wordcamp** - Wordcamp Fortaleza 2016
