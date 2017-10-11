@@ -14,11 +14,11 @@ Fortaleza/CE
 ## Competências
 
 **BackEnd:**
+* Ruby
+* Ruby on Rails
 * PHP
 * Wordpress
 * Laravel
-* Ruby
-* Ruby on Rails
 * Magento
 
 **FrontEnd:**
@@ -59,6 +59,15 @@ Fortaleza/CE
 
 ## Projetos de destaque
 
+* Laculá - Guia de Bairros - ( Sistema )
+[Back-end](https://lacula.com.br)
+
+* Valien Cosméticos - ( Sistema )
+[Front-end/Back-end](http://office.valien.com.br)
+
+* Nelis Rodrigues - ( Site / Sistema )
+[Front-end/Back-end](https://nelisrodrigues.com.br)
+
 * Prefeitura de Pacajus -  ( Site )
 [Front-end/Back-end](http://pacajus.ce.gov.br)
 
@@ -71,11 +80,6 @@ Fortaleza/CE
 * Sheng Chi - Restaurante - ( Site )
 [Front-end/Back-end](http://shengchi.com.br)
 
-* Valien Cosméticos - ( Sistema )
-[Front-end/Back-end](http://office.valien.com.br)
-
-* Nelis Rodrigues - ( Site / Sistema )
-[Front-end/Back-end](https://nelisrodrigues.com.br)
 
 ## Qualificações
 * **Curso Língua Inglesa** - Cursando 3º Semestre (6 Semestres) - Núcleo de Línguas Estrangeiras - UECE/PROLIN
