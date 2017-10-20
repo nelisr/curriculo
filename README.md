@@ -45,10 +45,6 @@ Fortaleza/CE
 
 ## Experiência Profissional
 
-* 2015/Atualmente - **DEV Team - Programador (PHP e Ruby)**
-> Atualmente atuo no time criado de DEVs para disponibilizar suas habilidades em desenvolvimento web e oferecer uma proposta de produto com resultados ao cliente que necessite de soluções para seu negócio na internet.
-[DEV Team](http://devunderground.com.br)
-
 * 2015/Atualmente - **E-deas Web - Web Developer**
 > Trabalho no desenvolvimento aplicações web ( Sites e Ecommerces ) com wordpress, focando no design responsivo, performance, otimização de pesquisa (SEO) e segurança dos mesmos.
 [E-deas](http://e-deas.com.br)
