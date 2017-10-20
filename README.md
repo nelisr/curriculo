@@ -91,6 +91,7 @@ Fortaleza/CE
 
 ## Eventos
 * **Wordcamp** - Wordcamp Fortaleza 2016
+* **PHPEST** - PHPEST Fortaleza 2017
 
 ## Informações adicionais
 
