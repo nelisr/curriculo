@@ -9,7 +9,6 @@ Fortaleza/CE
 
 ## Formação
 * **Graduado em Análise de Sistema** – (FGF) Faculdade Integrada da Grande Fortaleza – Concluído – 2014.2
-* **Ciência da Computação** – (FGF) - Faculdade Integrada da Grande Fortaleza – 1° período – 2015.1
 
 ## Competências
 
@@ -29,7 +28,7 @@ Fortaleza/CE
 * Automatizadores (Grunt, Gulp)
 
 **Design:**
-* PS
+* Photoshop
 * Illustrator
 
 **Outros:**
@@ -45,7 +44,7 @@ Fortaleza/CE
 
 ## Experiência Profissional
 
-* 2015/Atualmente - **E-deas Web - Web Developer**
+* 2015/2017 - **E-deas Web - Web Developer**
 > Trabalho no desenvolvimento aplicações web ( Sites e Ecommerces ) com wordpress, focando no design responsivo, performance, otimização de pesquisa (SEO) e segurança dos mesmos.
 [E-deas](http://e-deas.com.br)
 
@@ -60,9 +59,6 @@ Fortaleza/CE
 
 * Valien Cosméticos - ( Sistema )
 [Front-end/Back-end](http://office.valien.com.br)
-
-* Nelis Rodrigues - ( Site / Sistema )
-[Front-end/Back-end](https://nelisrodrigues.com.br)
 
 * Prefeitura de Pacajus -  ( Site )
 [Front-end/Back-end](http://pacajus.ce.gov.br)
