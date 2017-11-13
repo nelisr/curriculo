@@ -48,7 +48,7 @@ Fortaleza/CE
 > Trabalho no desenvolvimento aplicações web ( Sites e Ecommerces ) com wordpress, focando no design responsivo, performance, otimização de pesquisa (SEO) e segurança dos mesmos.
 [E-deas](http://e-deas.com.br)
 
-* 2014/2015 - **Zombie Digital - Web Developer ( Estágio )**
+* 2014/2015 - **Rubert Tecnologia - Web Developer ( Estágio )**
 > Desenvolvendo Sites e Portais ( Wordpress ), Ecommerces ( Magento ) e Sistemas Web ( Ruby On Rails ).
 [Rubert Tecnologia](http://rubert.com.br)
 
