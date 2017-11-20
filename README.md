@@ -6,6 +6,7 @@ Fortaleza/CE
 **Telefone:** (85) 99956.5125 - (85) 98549.3293 <br />
 **E-mail:** nelis.rodriguess@gmail.com <br />
 **Site:** [nelisrodrigues.com.br](https://nelisrodrigues.com.br/) <br />
+** Codepen: ** [nelisrodrigues](https://codepen.io/nelisrodrigues/) <br />
 
 ## Formação
 * **Graduado em Análise de Sistema** – (FGF) Faculdade Integrada da Grande Fortaleza – Concluído – 2014.2
