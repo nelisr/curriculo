@@ -26,7 +26,7 @@ Fortaleza/CE
 * VueJs
 * HTML5/CSS3/JavaScript/TypeScript/jQuery
 * Pré-processadores (Sass, Less, Stylus)
-* Frameworks Css ( Bootstrap, Foundation, Gumby )
+* Frameworks Css ( Material Design, Bootstrap, Foundation, Gumby )
 * Responsive Design
 * Automatizadores (Grunt, Gulp)
 
