@@ -1,19 +1,19 @@
 # Francisco Neles Gomes Rodrigues
 Fortaleza/CE
 
-#### Web Developer ( foco em Ruby e PHP )
+#### Web Developer
 
-**Telefone:** (85) 99956.5125 - (85) 98549.3293 <br />
 **E-mail:** nelis.rodriguess@gmail.com <br />
-**Site:** [nelisrodrigues.com.br](https://nelisrodrigues.com.br/) <br />
-**Codepen:** [nelisrodrigues](https://codepen.io/nelisrodrigues/) <br />
+**Telefone:** (85) 99956.5125 - (85) 98549.3293 <br />
 
 ## Formação
+* **Pós Graduação em Engenharia de Software** - Estácio - Cursando
 * **Graduado em Análise de Sistema** – (FGF) Faculdade Integrada da Grande Fortaleza – Concluído – 2014.2
 
 ## Competências
 
 **BackEnd:**
+* Node
 * Ruby
 * Ruby on Rails
 * PHP
@@ -22,31 +22,31 @@ Fortaleza/CE
 * Magento
 
 **FrontEnd:**
-* HTML5/CSS3/JavaScript/jQuery
+* Angular
+* VueJs
+* HTML5/CSS3/JavaScript/TypeScript/jQuery
 * Pré-processadores (Sass, Less, Stylus)
-* Frameworks ( Bootstrap, Foundation, Gumby )
+* Frameworks Css ( Bootstrap, Foundation, Gumby )
 * Responsive Design
 * Automatizadores (Grunt, Gulp)
+
+**Outros:**
+* Conhecimento em SEO
+* Controle de versão com git
+* SBGDs ( Mysql, Postgresql )
+* Metodologias Ágeis de Desenvolvimento de Software
+* Linux, Windows e Mac OS
 
 **Design:**
 * Photoshop
 * Illustrator
 
-**Outros:**
-* Orientação a Objetos
-* Arquitetura da Informação
-* Conhecimento em SEO
-* Controle de versão com git
-* SBGDs ( Mysql, Postgresql )
-* TDD ( RSpec )
-* Deploy ( Capistrano )
-* SCRUM
-* Linux, Windows e Mac OS
-
 ## Experiência Profissional
+* 2018 - **Casa Civil - Governo do Estado do Ceará**
+> Participei da migração dos novos portais do estado para a nova plataforma (Wordpress), ministrei os treinamentos para os usuários na nova plataforma, desenvolvi plugins para os portais, manutenção dos portais, criação do front-end dos portais e sistemas. 
 
 * 2015/2017 - **E-deas Web - Web Developer**
-> Trabalho no desenvolvimento aplicações web ( Sites e Ecommerces ) com wordpress, focando no design responsivo, performance, otimização de pesquisa (SEO) e segurança dos mesmos.
+> Desenvolvimento aplicações web ( Sites e Ecommerces ) com wordpress, focando no design responsivo, performance, otimização de pesquisa (SEO) e segurança dos mesmos.
 [E-deas](http://e-deas.com.br)
 
 * 2014/2015 - **Rubert Tecnologia - Web Developer ( Estágio )**
@@ -54,15 +54,14 @@ Fortaleza/CE
 [Rubert Tecnologia](http://rubert.com.br)
 
 ## Projetos de destaque
+* Governo do Estado do Ceará
+[Back-end|Front-end](https://www.ceara.gov.br)
 
 * Laculá - Guia de Bairros - ( Sistema )
 [Back-end](https://lacula.com.br)
 
 * Valien Cosméticos - ( Sistema )
 [Front-end/Back-end](http://office.valien.com.br)
-
-* Prefeitura de Pacajus -  ( Site )
-[Front-end/Back-end](http://pacajus.ce.gov.br)
 
 * CDL Jovem - Fortaleza - ( Site )
 [Front-end/Back-end](http://cdljovemfor.com.br)
@@ -75,7 +74,9 @@ Fortaleza/CE
 
 
 ## Qualificações
-* **Curso Língua Inglesa** - Cursando 3º Semestre (6 Semestres) - Núcleo de Línguas Estrangeiras - UECE/PROLIN
+* **Curso Construindo Aplicações Web com o novo Angular** - Udemy
+* **Curso Desenvolvimento REST/RESTful APIs com Ruby on Rails** - Udemy
+* **Curso Entendendo e Documentando REST/RESTful APIs** - Udemy
 * **Curso Ruby on Rails** - Udemy  
 * **Curso PHP**  - School Of Net
 * **Curso Administrador de Banco de Dados** - Senac
@@ -86,12 +87,7 @@ Fortaleza/CE
 ## Certificações
 * Sites para Dispositivos Móveis - [ Google ](https://www.google.com.br/partners/#i_profile;idtf=112521124707596699821;)
 
-## Eventos
-* **Wordcamp** - Wordcamp Fortaleza 2016
-* **PHPEST** - PHPEST Fortaleza 2017
-
 ## Informações adicionais
-
 * Facilidade e interesse em aprender
 * Determinação
 * Facilidade para trabalhar em equipe
