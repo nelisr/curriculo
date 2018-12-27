@@ -42,7 +42,7 @@ Fortaleza/CE
 * Illustrator
 
 ## Experiência Profissional
-* 2018 - **Casa Civil - Governo do Estado do Ceará**
+* 2018 - **Casa Civil - Governo do Estado do Ceará - Front-End**
 > Participei da migração dos novos portais do estado para a nova plataforma (Wordpress), ministrei os treinamentos para os usuários na nova plataforma, desenvolvi plugins para os portais, manutenção dos portais, criação do front-end dos portais e sistemas. 
 [Casa Civil](https://www.casacivil.ce.gov.br)   
 
