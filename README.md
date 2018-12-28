@@ -10,6 +10,19 @@ Fortaleza/CE
 * **Pós Graduação em Engenharia de Software** - Estácio - Cursando
 * **Graduado em Análise de Sistema** – (FGF) Faculdade Integrada da Grande Fortaleza – Concluído – 2014.2
 
+## Experiência Profissional
+* 2018 - **Casa Civil - Governo do Estado do Ceará - Front-End**
+> Participei da migração dos 69 novos portais de orgãos do estado para a nova plataforma (Wordpress), ministrei os treinamentos para os usuários na nova plataforma, desenvolvi plugins para os portais, manutenção dos portais, criação do front-end dos portais e sistemas. 
+[Casa Civil](https://www.casacivil.ce.gov.br)   
+
+* 2015/2017 - **E-deas Web - Web Developer**
+> Desenvolvimento aplicações web ( Sites e Ecommerces ) com wordpress, focando no design responsivo, performance, otimização de pesquisa (SEO) e segurança dos mesmos.
+[E-deas](http://e-deas.com.br)
+
+* 2014/2015 - **Rubert Tecnologia - Web Developer ( Estágio )**
+> Desenvolvendo Sites e Portais ( Wordpress ), Ecommerces ( Magento ) e Sistemas Web ( Ruby On Rails ).
+[Rubert Tecnologia](http://rubert.com.br)
+
 ## Competências
 
 **BackEnd:**
@@ -41,21 +54,8 @@ Fortaleza/CE
 * Photoshop
 * Illustrator
 
-## Experiência Profissional
-* 2018 - **Casa Civil - Governo do Estado do Ceará - Front-End**
-> Participei da migração dos novos portais do estado para a nova plataforma (Wordpress), ministrei os treinamentos para os usuários na nova plataforma, desenvolvi plugins para os portais, manutenção dos portais, criação do front-end dos portais e sistemas. 
-[Casa Civil](https://www.casacivil.ce.gov.br)   
-
-* 2015/2017 - **E-deas Web - Web Developer**
-> Desenvolvimento aplicações web ( Sites e Ecommerces ) com wordpress, focando no design responsivo, performance, otimização de pesquisa (SEO) e segurança dos mesmos.
-[E-deas](http://e-deas.com.br)
-
-* 2014/2015 - **Rubert Tecnologia - Web Developer ( Estágio )**
-> Desenvolvendo Sites e Portais ( Wordpress ), Ecommerces ( Magento ) e Sistemas Web ( Ruby On Rails ).
-[Rubert Tecnologia](http://rubert.com.br)
-
 ## Projetos de destaque
-* Governo do Estado do Ceará ( Site )
+* Governo do Estado do Ceará ( Portal )
 [Back-end|Front-end](https://www.ceara.gov.br)
 
 * Laculá - Guia de Bairros - ( Sistema )
