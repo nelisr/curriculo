@@ -75,11 +75,11 @@ Fortaleza/CE
 
 
 ## Qualificações
-* **Curso Construindo Aplicações Web com o novo Angular** - [Udemy](https://www.udemy.com/restful-apis/) - 5h
-* **Curso Desenvolvimento REST/RESTful APIs com Ruby on Rails** - Udemy
-* **Curso Entendendo e Documentando REST/RESTful APIs** - Udemy
-* **Curso Ruby on Rails** - Udemy  
-* **Curso PHP**  - School Of Net
+* **Curso Construindo Aplicações Web com o novo Angular** - [Udemy](https://www.udemy.com/angular-pt/) - 16hrs
+* **Curso Desenvolvimento REST/RESTful APIs com Ruby on Rails** - [Udemy](https://www.udemy.com/rubyonrails-api/) - 12hrs
+* **Curso Entendendo e Documentando REST/RESTful APIs** - [Udemy](https://www.udemy.com/restful-apis/) - 5hrs
+* **Curso Ruby on Rails** - [Udemy](https://www.udemy.com/rubyonrails/) - 54hrs
+* **Curso PHP**  - [School Of Net] (https://www.schoolofnet.com/curso/php/linguagem-php/iniciando-com-php/) - 10hrs 
 * **Curso Administrador de Banco de Dados** - Senac
 * **Curso Suporte e Manutenção de Computadores** - Universidade do Trabalho Digital
 * **Curso Suporte e Manutenção de Computadores** - Master Assessoria
