@@ -56,7 +56,7 @@ Fortaleza/CE
 
 ## Projetos de destaque
 * Governo do Estado do Ceará ( Portal )
-[Back-end|Front-end](https://www.ceara.gov.br)
+[Back-end/Front-end](https://www.ceara.gov.br)
 
 * Laculá - Guia de Bairros - ( Sistema )
 [Back-end](https://lacula.com.br)
@@ -75,7 +75,7 @@ Fortaleza/CE
 
 
 ## Qualificações
-* **Curso Construindo Aplicações Web com o novo Angular** - Udemy
+* **Curso Construindo Aplicações Web com o novo Angular** - [Udemy](https://www.udemy.com/restful-apis/) - 5h
 * **Curso Desenvolvimento REST/RESTful APIs com Ruby on Rails** - Udemy
 * **Curso Entendendo e Documentando REST/RESTful APIs** - Udemy
 * **Curso Ruby on Rails** - Udemy  
