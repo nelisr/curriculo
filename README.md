@@ -26,7 +26,7 @@ Fortaleza/CE
 ## Competências
 
 **BackEnd:**
-* Node
+* NodeJs
 * Ruby
 * Ruby on Rails
 * PHP
