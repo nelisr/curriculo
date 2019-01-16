@@ -45,8 +45,9 @@ Fortaleza/CE
 
 **Outros:**
 * Conhecimento em SEO
+* REST/RESTFull
 * Controle de versão com git
-* SBGDs ( Mysql, Postgresql )
+* SBGDs Relacionais ( Mysql, Postgresql )
 * Metodologias Ágeis de Desenvolvimento de Software
 * Linux, Windows e Mac OS
 
