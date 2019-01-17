@@ -30,9 +30,8 @@ Fortaleza/CE
 * Ruby
 * Ruby on Rails
 * PHP
-* Wordpress
 * Laravel
-* Magento
+* Wordpress
 
 **FrontEnd:**
 * Angular
@@ -41,7 +40,7 @@ Fortaleza/CE
 * Pré-processadores (Sass, Less, Stylus)
 * Frameworks Css ( Material Design, Bootstrap, Foundation, Gumby )
 * Responsive Design
-* Automatizadores (Grunt, Gulp)
+* Automatizadores (Grunt, Gulp, Webpack)
 
 **Outros:**
 * Conhecimento em SEO
