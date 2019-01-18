@@ -1,21 +1,21 @@
 # Francisco Neles Gomes Rodrigues
 Fortaleza/CE
 
-#### Web Developer
+#### Desenvolvedor Web
 
 **E-mail:** nelis.rodriguess@gmail.com <br />
-**Telefone:** (85) 99956.5125 - (85) 98549.3293 <br />
+**Telefone:** (85) 99956.5125 <br />
 
 ## Formação
-* **Pós Graduação em Engenharia de Software** - Estácio - Cursando
+* **Pós Graduação em Engenharia de Software** - Estácio FIC - Cursando
 * **Graduado em Análise de Sistema** – (FGF) Faculdade Integrada da Grande Fortaleza – Concluído – 2014.2
 
 ## Experiência Profissional
-* 2018 - **Casa Civil - Governo do Estado do Ceará - Front-End**
+* 2018/2019 - **Casa Civil - Governo do Estado do Ceará - Front-End**
 > Participei da migração dos 69 novos portais de orgãos do estado para a nova plataforma (Wordpress), ministrei os treinamentos para os usuários na nova plataforma, desenvolvi plugins para os portais, manutenção dos portais, criação do front-end dos portais e sistemas. 
 [Casa Civil](https://www.casacivil.ce.gov.br)   
 
-* 2015/2017 - **E-deas Web - Web Developer**
+* 2015/2018 - **E-deas Web - Web Developer**
 > Desenvolvimento aplicações web ( Sites e Ecommerces ) com wordpress, focando no design responsivo, performance, otimização de pesquisa (SEO) e segurança dos mesmos.
 [E-deas](http://e-deas.com.br)
 
@@ -43,11 +43,11 @@ Fortaleza/CE
 * Automatizadores (Grunt, Gulp, Webpack)
 
 **Outros:**
-* Conhecimento em SEO
 * REST/RESTFull
-* Controle de versão com git
+* Controle de versão com Git
 * SBGDs Relacionais ( Mysql, Postgresql )
 * Metodologias Ágeis de Desenvolvimento de Software
+* Conhecimento em SEO
 * Linux, Windows e Mac OS
 
 **Design:**
